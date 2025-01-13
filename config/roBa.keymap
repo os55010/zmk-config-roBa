@@ -73,7 +73,7 @@
 &kp LCTRL         &kp LEFT_WIN  &lt_to_layer_0 1 ESC  &lt 2 SPACE  &lt_to_layer_0 6 TAB  &kp LEFT_ALT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
             >;
 
-            sensor-bindings = <&left_encoder PG_UP PAGE_DOWN>;
+            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
         };
 
         FUNCTION {
