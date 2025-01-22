@@ -69,7 +69,7 @@
             bindings = <
             &kp Q             &kp W         &kp E         &kp R                        &kp T                                                          &kp Y        &kp U  &lt 5 I    &kp O    &kp P
             &kp A             &kp S         &kp D         &kp F                        &kp G        &kp LS(LG(S))                      &kp BACKSPACE  &kp H        &kp J  &kp K      &kp L    &kp LALT
-            &kp Z             &kp X         &kp C         &kp V                        &kp B        &kp COLON                          &lt 5 ENTER    &kp N        &kp M  &mkp MB1  &mkp MB2  &lt 5
+            &kp Z             &kp X         &kp C         &kp V                        &kp B        &kp COLON                          &lt 5 ENTER    &kp N        &kp M  &mkp MB1  &mkp MB2  &lt_to_layer_0 5 RIGHT_SHIFT
             &kp LCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt_to_layer_0 6 ESC         &lt 2 SPACE  &lt_to_layer_0 5 TAB               &kp BACKSPACE  &lt 1 ENTER                             &kp RIGHT_SHIFT
                         >;
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
