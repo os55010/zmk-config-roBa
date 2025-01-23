@@ -77,9 +77,9 @@
 
         FUNCTION {
             bindings = <
-            &kp MINUS  　　　　&kp EQUAL 　　　 &kp TILDE 　 &trans  　　　　　　　　　　　　　&trans           　　　　　　　　　　　　　　　　　　　　　　　　　　    &kp F1    　　&kp F2  &kp UP_ARROW  &kp F4  &kp F5
-            &kp LBKT &kp RBKT  &kp GRAVE  &kp SEMI  &kp SQT  &trans   　　　　　　　　　　 &trans  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&kp F6   　　 &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp F10
-            &kp COMMA  &kp DOT   &kp SLASH  &trans  &trans  &trans 　　　　　　　　　　　   &trans  　　　　　　　　　　　　　　　　　　　　　　　　　　　　j　　　　　&kp LANG1  &kp LANG2  &kp RIGHT_SHIFT  &trans  &kp F11
+            &kp MINUS  　　　　&kp EQUAL 　　　 &kp TILDE 　 &trans  &trans               &kp F1    　　　　　　&kp F2               &kp UP_ARROW &kp F4  &kp F5
+            &kp LBKT &kp RBKT  &kp GRAVE  &kp SEMI  &kp SQT  &trans    &trans  &kp F6     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW    &kp F10
+            &kp COMMA  &kp DOT   &kp SLASH  &trans  &trans  &trans    &trans  &kp LANG1  &kp LANG2  &kp RIGHT_SHIFT  &trans  &kp F11
             &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans                                         &kp F12
             >;
         };
